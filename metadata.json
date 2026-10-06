@@ -1,0 +1,6 @@
+{
+  "name": "On D Go by Modge | Artisanal Desserts & Specialty Coffee",
+  "description": "On D Go by Modge (অন ডি গো বাই মধ্যে) — A modern dessert atelier and specialty coffee destination in Sector V, Kolkata. Indulge in artisanal tiramisu, signature Matilda cakes, handcrafted cheesecakes, and slow-brewed coffee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
